@@ -213,7 +213,7 @@ cd /etc || exit
 wget 'https://pastebin.com/raw/z9j2nA8p' -O /etc/socks.py
 dos2unix /etc/socks.py
 chmod +x /etc/socks.py
-wget 'https://raw.githubusercontent.com/A-l-amin/dxpanelrepo/refs/heads/server_script/monitor' -O /etc/.monitor
+wget 'https://raw.githubusercontent.com/A-l-amin/dxoldrepo/refs/heads/server_script/monitor' -O /etc/.monitor
 wget 'https://raw.githubusercontent.com/A-l-amin/dxpanelrepo/refs/heads/server_script/ws' -O /etc/.ws
 wget 'https://raw.githubusercontent.com/A-l-amin/dxpanelrepo/refs/heads/server_script/hysteria' -O /etc/.hysteria
 chmod +x /etc/.monitor
